@@ -2,4 +2,4 @@
 manual
 This is for Bingo-45V manual
 
-hhe
+hhe is hehe
